@@ -1,6 +1,6 @@
 <div align="center">
 
-# The Pseudocalculadora Project
+# <img src=https://user-images.githubusercontent.com/97404563/153776721-4ff7d1d1-2de3-41a3-81d3-a5682ba1c874.png height="60" align="center"> The Pseudocalculadora Project
 
 This project aims to create simple and useful codes in different languages and frameworks (especially the most important ones for the job market), making possible to see how professional-grade projects are build.
 </div>
